@@ -38,7 +38,6 @@ class _SettingsDashboardAdminState extends State<SettingsDashboardAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }

@@ -38,7 +38,6 @@ class _ServicesDashboardAdminState extends State<ServicesDashboardAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }

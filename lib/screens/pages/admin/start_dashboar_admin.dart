@@ -38,7 +38,6 @@ class _StartDashboarAdminState extends State<StartDashboarAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }

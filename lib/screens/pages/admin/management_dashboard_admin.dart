@@ -39,7 +39,6 @@ class _ManagementDashboardAdminState extends State<ManagementDashboardAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }

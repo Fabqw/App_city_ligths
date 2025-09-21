@@ -38,7 +38,6 @@ class _RentalsDashboardAdminState extends State<RentalsDashboardAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }

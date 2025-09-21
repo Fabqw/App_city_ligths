@@ -38,7 +38,6 @@ class _ProfileDashboardAdminState extends State<ProfileDashboardAdmin> {
             ],
           ),
         ),
-        // Aquí puedes agregar más widgets para el inicio
       ],
     );
   }
